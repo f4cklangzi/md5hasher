@@ -1,0 +1,15 @@
+{
+    "name": "f4cklangzi/md5hasher",
+    "description": "f4cklangzi test package",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "~7.1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laravist\\Hasher\\":"src/"
+        }
+    }
+}
