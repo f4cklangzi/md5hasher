@@ -56,6 +56,7 @@ class MD5HasherTest extends \PHPUnit\Framework\TestCase
         $passwordCheck = $this->hasher->check('password', $password);
         $this->assertTrue($passwordCheck);
         //hotbug fixed gggg
+        //dev1 complete
     }
 
 }
