@@ -59,6 +59,7 @@ class MD5HasherTest extends \PHPUnit\Framework\TestCase
         //dev1 complete
         //dev2
         //dev3
+        //dev4
     }
 
 }
