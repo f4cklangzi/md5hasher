@@ -1,5 +1,8 @@
 # md5hasher
 ```v1.0```
+
+[![Build Status](https://travis-ci.org/f4cklangzi/md5hasher.svg?branch=master)](https://travis-ci.org/f4cklangzi/md5hasher)
+
 # Installation
 Install via composer - edit your ```composer.json``` to require the package.
 
