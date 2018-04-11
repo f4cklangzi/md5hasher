@@ -2,7 +2,9 @@
 ```v1.0```
 
 [![Build Status](https://travis-ci.org/f4cklangzi/md5hasher.svg?branch=master)](https://travis-ci.org/f4cklangzi/md5hasher)
-
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/f4cklangzi/md5hasher/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/f4cklangzi/md5hasher/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/f4cklangzi/md5hasher/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/f4cklangzi/md5hasher/?branch=master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/f4cklangzi/md5hasher/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 # Installation
 Install via composer - edit your ```composer.json``` to require the package.
 
